@@ -33,3 +33,8 @@ python uhgminer_msu.py <dataset> <utility_threshold>
 ### Options for `utility_threshold`
 
 Any real value between 0 and 1.
+
+### Example
+```bash
+python uhgminer_msu.py data_mining 0.02
+```
